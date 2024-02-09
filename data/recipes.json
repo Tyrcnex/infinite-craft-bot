@@ -4,27 +4,31 @@
         "emoji": "💧",
         "ingredient1": null,
         "ingredient2": null,
-        "timesIngredient": 0
+        "timesIngredient": 1,
+        "timesFail": 0
     },
     {
         "product": "Fire",
         "emoji": "🔥",
         "ingredient1": null,
         "ingredient2": null,
-        "timesIngredient": 0
+        "timesIngredient": 1,
+        "timesFail": 0
     },
     {
         "product": "Wind",
         "emoji": "🌬️",
         "ingredient1": null,
         "ingredient2": null,
-        "timesIngredient": 0
+        "timesIngredient": 1,
+        "timesFail": 0
     },
     {
         "product": "Earth",
         "emoji": "🌍",
         "ingredient1": null,
         "ingredient2": null,
-        "timesIngredient": 0
+        "timesIngredient": 1,
+        "timesFail": 0
     }
 ]
