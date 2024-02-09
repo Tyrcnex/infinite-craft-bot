@@ -1,0 +1,14 @@
+{
+    "name": "infinite-craft-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "bot": "echo '---BOT START---' >> main.log & node . 2>&1 | tee -a main.log",
+        "reset": "echo '---RESETTED RECIPES.JSON---' >> main.log & node reset.js",
+        "visualize": "node visualize.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
