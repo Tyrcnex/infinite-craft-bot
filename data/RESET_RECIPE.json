@@ -2,33 +2,33 @@
     {
         "product": "Water",
         "emoji": "💧",
-        "ingredient1": null,
-        "ingredient2": null,
-        "timesIngredient": 1,
-        "timesFail": 0
+        "recipes": [],
+        "timesIngredient": 0,
+        "timesFail": 0,
+        "timesDupe": 0
     },
     {
         "product": "Fire",
         "emoji": "🔥",
-        "ingredient1": null,
-        "ingredient2": null,
-        "timesIngredient": 1,
-        "timesFail": 0
+        "recipes": [],
+        "timesIngredient": 0,
+        "timesFail": 0,
+        "timesDupe": 0
     },
     {
         "product": "Wind",
         "emoji": "🌬️",
-        "ingredient1": null,
-        "ingredient2": null,
-        "timesIngredient": 1,
-        "timesFail": 0
+        "recipes": [],
+        "timesIngredient": 0,
+        "timesFail": 0,
+        "timesDupe": 0
     },
     {
         "product": "Earth",
         "emoji": "🌍",
-        "ingredient1": null,
-        "ingredient2": null,
-        "timesIngredient": 1,
-        "timesFail": 0
+        "recipes": [],
+        "timesIngredient": 0,
+        "timesFail": 0,
+        "timesDupe": 0
     }
 ]
